@@ -1,1 +1,1 @@
-export const BACKEND_IP = `http://localhost:4000`
+export const BACKEND_IP = `https://mern-crud-backend33.herokuapp.com`
